@@ -4,6 +4,8 @@ def evaluate_statement(statement):
         if keyword == 'true' or keyword == 'false':
             stack.append(keyword)
         elif keyword == 'and':
+            if len(stack) < 2:
+                return 'Error: Not enough operands for "and" operator'
             y = stack.pop()
             x = stack.pop()
             if x == 'true' and y == 'true':
@@ -11,6 +13,8 @@ def evaluate_statement(statement):
             else:
                 stack.append('false')
         elif keyword == 'or':
+            if len(stack) < 2:
+                return 'Error: Not enough operands for "or" operator'
             y = stack.pop()
             x = stack.pop()
             if x == 'true' or y == 'true':
