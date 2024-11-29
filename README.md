@@ -48,7 +48,7 @@ capabilities, efficiency, and usability, using programming problems from the Uni
 
     * Provided natural language descriptions of USACO problems.
     * Code generated was reviewed for correctness, logic, and clarity.
-    * Tested for usability in generating solutions from scratch.`
+    * Tested for usability in generating solutions from scratch.
 
 * Tabnine:
 
