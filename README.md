@@ -1,5 +1,20 @@
 # AI-Contest---ChatGPT-vs-Tabnine
 
+## Team Members
+
+* Ahmad, Muhammad Ali Hassan, 1294002
+* Patel, Dhruv Sanjaykumar, 1151147 
+* Kalasa, Vijaylakshmi Shivkumar, 1267248 
+* Kaushik, Sarthak, 1270126 
+* Krikun, Elena, 1276575 
+* Latt, May Khaing, 1276661  
+* Lian, Tianhua, 1255561 
+* Lin, Tzu-Hsuan, 1273233 
+* Mangera, Aadil Asif, 1274539 
+* McCutcheon, Austin O, 1140306 
+* Mehta, Manav Samirbhai, 1275569
+* Safira Shabbirbhai Gulam Seva, 1275784 
+
 
 ## Project Overview
 
